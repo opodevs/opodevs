@@ -1,3 +1,7 @@
+
+[![Visits Badge](https://badges.pufler.dev/visits/opodevs/opodevs)](https://github.com/opodevs)
+[![Twitter Badge](https://img.shields.io/badge/Fiverr-Hire_Us-informational?style=flat&logo=fiverr&logoColor=white&color=1CA2F1)](https://www.fiverr.com/opodevs)
+
 ## Hi there <img src="https://raw.githubusercontent.com/opodevs/opodevs/main/wave.gif" width="30px">
 
 We are **opodevs**, a partnership between two programmers from Porto, Portugal ( OPO in airport code 😁 ) who grew as professionals together & with +6 years of experience ( 12 years between both of us 💪 ).
