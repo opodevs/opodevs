@@ -1,4 +1,4 @@
-[![opodev's GitHub Cover](./Cover.png)](https://github.com/opodevs)
+[![opodev's GitHub Banner](./Cover.png)](https://github.com/opodevs)
 
 [![Visits Badge](https://badges.pufler.dev/visits/opodevs/opodevs)](https://github.com/opodevs)
 [![Twitter Badge](https://img.shields.io/badge/Fiverr-Hire_Us-informational?style=flat&logo=fiverr&logoColor=white&color=1CA2F1)](https://www.fiverr.com/opodevs)
@@ -49,4 +49,10 @@ You can check out each one of us below (don't mind the ugly faces, we are pretti
   <a href="https://www.fiverr.com/opodevs" target="_blank">
     Fiverr
   </a>
+</p>
+
+<br>
+
+<p align='right'>
+  Icons in the banner by <a href="https://twitter.com/codecalm">Paweł Kuna</a>
 </p>
