@@ -1,17 +1,42 @@
 [![opodev's GitHub Banner](./Cover.png)](https://github.com/opodevs)
 
 [![Visits Badge](https://badges.pufler.dev/visits/opodevs/opodevs)](https://github.com/opodevs)
-[![Twitter Badge](https://img.shields.io/badge/Fiverr-Hire_Us-informational?style=flat&logo=fiverr&logoColor=white&color=1CA2F1)](https://www.fiverr.com/opodevs)
+[![Fiverr Badge](https://img.shields.io/badge/Fiverr-Hire_Us-informational?style=flat&logo=fiverr&logoColor=white&color=1CA2F1)](https://www.fiverr.com/opodevs)
+[![Email Badge](https://img.shields.io/badge/Email-Contact_Us-informational?style=flat&logo=gmail&logoColor=white&color=1CA2F1)](mailto:opo.devs@gmail.com)
 
 ## Hi there <img src="https://raw.githubusercontent.com/opodevs/opodevs/main/wave.gif" width="30px">
 
 We are **opodevs**, a partnership between two programmers from Porto, Portugal ( OPO in airport code 😁 ) who grew as professionals together & with +6 years of experience ( 12 years between both of us 💪 ).
 
-You can check out each one of us below (don't mind the ugly faces, we are prettier inside 🥺):
+## 👨‍💻 👨‍💻 About us
 
-👉 &nbsp; [Ricardo Barbosa](https://github.com/RicardoPBarbosa)
+💡 &nbsp; We like to pursue challenges, build great software, but what drives us the most in our work is helping people solve their problems.
 
-👉 &nbsp; [Rui Martins](https://github.com/ruimartins21)
+🎓 &nbsp; We both have a bachelor's degree in computer science and a postgraduate in mobile computing taken at Fernando Pessoa University, Porto.
+
+🌱 &nbsp; We are always improving our skills being them professional or personal. We follow the idea of always wanting to be better than yesterday and with that in mind we are eternal learners 🤓
+
+You can check out each of our own portfolios below (don't mind the ugly faces, we are prettier inside 🥺)
+
+<p align="center">
+<a href="https://github.com/RicardoPBarbosa">
+  <img src="https://avatars.githubusercontent.com/u/20243398?s=460&u=e369f27f3e5c1cb47a95ebc85005251a82a1f5f3&v=4" width="200px">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ruimartins21">
+  <img src="https://avatars.githubusercontent.com/u/10747165?s=460&u=36fa81c6f92588daaa0c53e409228518c972ccbf&v=4" width="200px">
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/RicardoPBarbosa">
+  Ricardo Barbosa
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ruimartins21">
+  Rui Martins
+</a>
+</p>
 
 <br>
 
