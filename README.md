@@ -16,7 +16,7 @@ We are **opodevs**, a partnership between two programmers from Porto, Portugal (
 
 🌱 &nbsp; We are always improving our skills being them professional or personal. We follow the idea of always wanting to be better than yesterday and with that in mind we are eternal learners 🤓
 
-You can check out each of our own portfolios below (don't mind the ugly faces, we are prettier inside 🥺)
+👇 &nbsp; You can check out each of our own portfolios below (don't mind the ugly faces, we are prettier inside 🥺)
 
 <p align="center">
 <a href="https://github.com/RicardoPBarbosa">
