@@ -1,8 +1,8 @@
 [![opodev's GitHub Banner](./Banner.png)](https://github.com/opodevs)
 
-[![Visits Badge](https://badges.pufler.dev/visits/opodevs/opodevs)](https://github.com/opodevs)
-[![Fiverr Badge](https://img.shields.io/badge/Fiverr-Hire_Us-informational?style=flat&logo=fiverr&logoColor=white&color=1CA2F1)](https://www.fiverr.com/opodevs)
-[![Email Badge](https://img.shields.io/badge/Email-Contact_Us-informational?style=flat&logo=gmail&logoColor=white&color=1CA2F1)](mailto:opo.devs@gmail.com)
+[![Visits Badge](https://badges.pufler.dev/visits/opodevs/opodevs?color=7DE8B7)](https://github.com/opodevs)
+[![Fiverr Badge](https://img.shields.io/badge/Fiverr-Hire_Us-informational?style=flat&logo=fiverr&logoColor=white&color=7DE8B7)](https://www.fiverr.com/opodevs)
+[![Email Badge](https://img.shields.io/badge/Email-Contact_Us-informational?style=flat&logo=gmail&logoColor=white&color=7DE8B7)](mailto:opo.devs@gmail.com)
 
 ## Hi there <img src="https://raw.githubusercontent.com/opodevs/opodevs/main/wave.gif" width="30px">
 
@@ -26,28 +26,28 @@ We are **opodevs**, a partnership between two programmers from Porto, Portugal (
 
 ## 🔧 &nbsp; Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Mac_OS-informational?style=flat&logo=apple&logoColor=white&color=4F5C6D)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=4F5C6D)
+![](https://img.shields.io/badge/OS-Mac_OS-informational?style=flat&logo=apple&logoColor=white&color=7DE8B7)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=7DE8B7)
 
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4F5C6D)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=4F5C6D)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4F5C6D)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=4F5C6D)
-![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=4F5C6D)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4F5C6D)
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=4F5C6D)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=4F5C6D)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=7DE8B7)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=7DE8B7)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=7DE8B7)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=7DE8B7)
+![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=7DE8B7)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=7DE8B7)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=7DE8B7)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=7DE8B7)
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4F5C6D)
-![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=sass&logoColor=white&color=4F5C6D)
-![](https://img.shields.io/badge/Style-Styled_Components-informational?style=flat&logo=styled-components&logoColor=white&color=4F5C6D)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=7DE8B7)
+![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=sass&logoColor=white&color=7DE8B7)
+![](https://img.shields.io/badge/Style-Styled_Components-informational?style=flat&logo=styled-components&logoColor=white&color=7DE8B7)
 
-![](https://img.shields.io/badge/Tools-Mongo_DB-informational?style=flat&logo=mongodb&logoColor=white&color=4F5C6D)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4F5C6D)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4F5C6D)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4F5C6D)
-![](https://img.shields.io/badge/Tools-SEO_Optimization-informational?style=flat&color=4F5C6D)
-![](https://img.shields.io/badge/Tools-Progressive_Web_Apps-informational?style=flat&color=4F5C6D)
+![](https://img.shields.io/badge/Tools-Mongo_DB-informational?style=flat&logo=mongodb&logoColor=white&color=7DE8B7)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=7DE8B7)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=7DE8B7)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=7DE8B7)
+![](https://img.shields.io/badge/Tools-SEO_Optimization-informational?style=flat&color=7DE8B7)
+![](https://img.shields.io/badge/Tools-Progressive_Web_Apps-informational?style=flat&color=7DE8B7)
 
 <br>
 
