@@ -18,17 +18,9 @@ We are **opodevs**, a partnership between two programmers from Porto, Portugal (
 
 👇 &nbsp; You can check out each of our own portfolios below (don't mind the ugly faces, we are prettier inside 🥺)
 
-<p align="center">
-<a href="https://github.com/RicardoPBarbosa">
-  <img src="https://avatars.githubusercontent.com/u/20243398?s=460&u=e369f27f3e5c1cb47a95ebc85005251a82a1f5f3&v=4" width="200px">
-    Ricardo Barbosa
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ruimartins21">
-  <img src="https://avatars.githubusercontent.com/u/10747165?s=460&u=36fa81c6f92588daaa0c53e409228518c972ccbf&v=4" width="200px">
-    Rui Martins
-</a>
-</p>
+| <a href="https://github.com/RicardoPBarbosa"><img src="https://avatars.githubusercontent.com/u/20243398?s=460&u=e369f27f3e5c1cb47a95ebc85005251a82a1f5f3&v=4" width="200px"></a> | <a href="https://github.com/ruimartins21"><img src="https://avatars.githubusercontent.com/u/10747165?s=460&u=36fa81c6f92588daaa0c53e409228518c972ccbf&v=4" width="200px"></a> |
+| :---------: | :---------: |
+| <a href="https://github.com/RicardoPBarbosa">Ricardo Barbosa</a> | <a href="https://github.com/ruimartins21">Rui Martins</a> |
 
 <br>
 
