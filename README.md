@@ -1,4 +1,4 @@
-[![opodev's GitHub Banner](./Banner.png)](https://github.com/opodevs)
+[![opodev's GitHub Banner](https://cdn.jsdelivr.net/gh/opodevs/opodevs@main/Banner.png)](https://github.com/opodevs)
 
 [![Visits Badge](https://badges.pufler.dev/visits/opodevs/opodevs?color=7DE8B7)](https://github.com/opodevs)
 [![Fiverr Badge](https://img.shields.io/badge/Fiverr-Hire_Us-informational?style=flat&logo=fiverr&logoColor=white&color=7DE8B7)](https://www.fiverr.com/opodevs)
